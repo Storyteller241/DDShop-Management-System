@@ -54,6 +54,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 运行展示
 
-![image](../amddshop/src/assets/images/yx.png)
-![image](../amddshop/src/assets/images/yy.png)
-![image](../amddshop/src/assets/images/xx.png)
+![image](https://github.com/Storyteller241/amdd/blob/master/src/assets/images/yx.png)
+![image](https://github.com/Storyteller241/amdd/blob/master/src/assets/images/yy.png)
+![image](https://github.com/Storyteller241/amdd/blob/master/src/assets/images/xx.png)
